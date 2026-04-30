@@ -34,6 +34,7 @@ While the current prototype successfully utilizes visual color sensing for proof
   
 ## 🏆 Recognition
 * Successfully presented as a technical project at the **International Conference (March 2026)**.
+* Won in the project presentation at the  International conference PEC2k26.
 ---
   
 ### 👩‍💻 Developed by
