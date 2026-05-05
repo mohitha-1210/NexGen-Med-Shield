@@ -1,4 +1,4 @@
-# NexGen Med-shield 🛡️
+# NexGen Med-Shield 🛡️
 
 **NexGen Med-shield** is an integrated IoT and software solution designed to automate the identification and safe disposal of expired medications. This project aims to reduce medical waste and prevent the accidental consumption of compromised drugs.
 ---
