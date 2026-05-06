@@ -12,7 +12,7 @@ Traditional medicine disposal is manual and error-prone. This system uses a comb
 * **Language:** Python 3.x, C++ (Arduino)
 
 ### **Hardware (Prototype Phase 1)**
-* **Microcontroller:** Arduino Uno
+* **Microcontroller:** Arduino Uno.
 * **Sensors:** * **RGB Color Sensor:** To detect packaging/pill color signatures.
 * **Load Cell:** To verify weight consistency against known standards.
 ---
